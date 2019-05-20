@@ -6,9 +6,7 @@ void printAll();
 void searchByName();
 void deleteByName();
 
-static int count_service = 0;	// Total number of service requests
 extern int size;
-
 
 int main()
 {

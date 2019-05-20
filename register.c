@@ -7,6 +7,7 @@ static char* PW = "abc123";
 static char* errorMsg = "Not matched ";
 static char* caseByCnt[3] = {"!!!", "(twice)!!!", "(3 times)!!!"};
 
+
 void registerPhoneData()
 {
     int count_service = 0;
